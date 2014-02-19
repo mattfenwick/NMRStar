@@ -1,3 +1,11 @@
+.gitignore
+*CVS/
+target/
+._*
+.settings/
+.classpath
+
+
 *.class
 
 # Package Files #
